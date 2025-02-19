@@ -8,17 +8,17 @@
 }
 
 body {
-    background-color: #191919;
+    background-color: #292525;
     display: flex;
     min-height: 100vh;
-    align-items: center;
+    align-items: center;-
     justify-content: center;
     flex-direction: column;
     color: white;
 }
 
 canvas {
-    background-color: #111;
+    background-color: #000000;
 }
 
 .score {
